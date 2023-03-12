@@ -1,5 +1,5 @@
-# Robot Model Description 
-Create a model for your robot using URDF. Tutorial: [URDF](https://docs.ros.org/en/humble/Tutorials/Intermediate/URDF/URDF-Main.html) 
+# Robot Gazebo Simulation
+Upgrade URDF in previous assignment to introduce the robot model to Gazebo simulation. Example repository: [linzhanguca/homeplater](https://github.com/linzhangUCA/homeplater.git) 
 
 ## Instructions: 
 1. (20%) Set up the package.
