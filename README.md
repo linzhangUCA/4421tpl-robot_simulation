@@ -17,4 +17,6 @@ colcon build --packages-select diffbot_gazebo
 #### Hints:
 - Example repository: [linzhanguca/homeplater](https://github.com/linzhangUCA/homeplater.git).
 - Remember to build your package in `<your ros workspace>` and `source ~/<your ros workspace>/install/local_setup.bash` after the first time you build the package.
-To drive the robot in Gazebo, you can `ros2 run teleop_twist_keyboard teleop_twist_keyboard` to do so.
+- To drive the robot in Gazebo, you can `ros2 run teleop_twist_keyboard teleop_twist_keyboard` to do so.
+- You can save rviz configs.
+- You are welcome to use a Gazebo world.
